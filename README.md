@@ -1,6 +1,5 @@
 # phone-hunter-api
 
-## API Links
 
 ### Phone Search
 URL Format: https://openapi.programming-hero.com/api/phones?search=${searchText}
